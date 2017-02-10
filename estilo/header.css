@@ -1,0 +1,275 @@
+body
+{
+	background-color: #E5E5E5;
+}
+
+.cor-odoo 
+{
+	color: #A3498B;
+	font-size: 10rem;
+}
+
+.cor-odoo-2 
+{
+	color: #E5E5E5;
+	font-size: 10rem;
+}
+
+.odmin
+{
+	display: inline;
+}
+
+.odmin-info
+{
+	display: inline;
+	margin-top: 0rem;
+	margin-right: 1rem;
+}
+
+.log-as-1
+{
+	color: #A3498B;
+}
+
+.log-as-2
+{
+	color:#7A7A7A;	
+}
+
+.jumbotron
+{
+	background-color: white;
+	padding: 1rem;
+	border-bottom: solid 1px #A3498B;
+	border-right: solid 1px #A3498B;
+	border-left: solid 1px #A3498B;
+}
+
+.link-bar
+{
+	text-decoration: none;
+	color:#7A7A7A;
+	margin-left:1rem; 
+	font-size: 1.6rem;
+}
+
+.sair
+{
+	text-decoration: none;
+	color:#7A7A7A;
+	margin-left:1rem; 
+	font-size: 2rem;		
+}
+
+.sair:hover
+{
+	text-decoration: none;
+	color:#A3498B;
+	margin-left:1rem; 
+	font-size: 2rem;		
+}
+
+.link-bar:hover
+{
+	text-decoration: none;
+	color:#A3498B;
+	font-size: 1.6rem;
+}
+
+.pull-right-margin
+{
+	margin-top: 4.5rem;
+}
+
+.login-box
+{
+	text-align: center;
+	background-color:white;  
+	
+	padding-top:5rem; 
+	padding-bottom:5rem; 
+	border: solid 1px #A3498B;
+}
+
+.painel-box
+{
+	text-align: center;
+	background-color:white;  
+	padding-top:5rem; 
+	padding-bottom:5rem; 
+	border: solid 1px #A3498B;
+}
+
+.suc-box
+{
+	text-align: center;
+	background-color:white;  
+	padding-top:5rem; 
+	padding-bottom:5rem; 
+	border: solid 1px green;
+}
+
+.margin
+{
+	margin-bottom: 5%;
+	margin-top: 1%;
+}
+
+.login-row
+{
+	margin-top: 8%;
+}
+
+.admin-row
+{
+	margin-top: 2rem;
+}
+
+.input-login
+{
+	width: 50%;
+	height: 5rem;
+	margin-bottom: 4rem;
+	font-size: 2.5rem;
+	background-color: white;
+	border: 2px solid #E5E5E5;
+}
+
+.input-senha
+{
+	width: 50%;
+	height: 5rem;
+	margin-bottom: 0rem;
+	font-size: 2.5rem;
+	background-color: white;
+	border: 2px solid #E5E5E5;
+}
+
+.input-login:focus
+{
+	width: 50%;
+	height: 5rem;
+	margin-bottom: 4rem;
+	font-size: 2.5rem;
+	background-color: white;
+	border: 2px solid #A3498B;
+	transition: 1s;
+}
+
+.input-senha:focus
+{
+	width: 50%;
+	height: 5rem;
+	margin-bottom: 0rem;
+	font-size: 2.5rem;
+	background-color: white;
+	border: 2px solid #A3498B;
+	transition: 1s;
+}
+
+
+#logar
+{
+	margin-top: 4rem;
+	background-color: #A3498B;
+	width: 20%;
+	color:white;
+}
+
+#logar:hover
+{	
+	width: 30%;
+	transition: 1s;
+}
+
+#aviso
+{
+	color:red;
+	font-weight: bold;
+	margin-top: 2rem;
+}
+
+#aviso2
+{
+	color:red;
+	font-weight: bold;
+	margin-top: 2rem;
+}
+
+
+.lista-admin
+{
+	display: inline-block;
+	list-style: none;
+	margin: 3rem;
+}
+
+.tabela-admin-header
+{
+	background-color: white;
+	padding:0.2rem;
+	border-bottom: solid 2px #A3498B;
+	text-align: center;
+}
+
+.tabela-admin-body
+{
+	background-color: #E5E5E5;
+	border-bottom: solid 1px #A3498B;
+	border-left: solid 1px #A3498B;
+	border-right: solid 1px #A3498B;
+}
+
+.table-wid
+{
+	width: 100%;
+}
+
+.menu
+{
+	background-color: #E5E5E5;
+	padding: 0px;
+}
+
+.menu > li 
+{
+	margin: 0rem;
+	padding: 2rem;
+}
+
+.menu > li:hover 
+{
+	margin: 0rem;
+	padding: 2rem;
+	background-color:  #EEEEEE;
+	color:#A3498B;
+}
+
+.link-bar-app
+{
+	text-decoration: none;
+	color:#7A7A7A;
+	margin-left:1rem; 
+	font-size: 1.6rem;
+}
+
+#btnCadastrarUser
+{
+	background-color: #A3498B;
+	color:white;
+}
+
+#btnCadastrarApp
+{
+	background-color: #A3498B;
+	color:white;
+}
+
+
+
+
+
+
+
+
